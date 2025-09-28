@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import os
 import datetime
-import io
 
 class DataManager:
     """Handles all data management operations for the expense tracker with password-protected Excel files."""

@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-import os
 from utils.data_manager import DataManager
-from utils.pdf_processor import PDFProcessor
 
 # Configure page
 st.set_page_config(
